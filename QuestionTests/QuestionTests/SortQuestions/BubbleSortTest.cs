@@ -12,7 +12,7 @@ namespace QuestionTests.SortQuestions
     public class BubbleSortTest
     {
         [Test]
-        public void Sort() 
+        public void Test() 
         {
             BubbleSort bubbleSort = new BubbleSort();
 

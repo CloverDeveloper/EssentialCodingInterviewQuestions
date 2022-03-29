@@ -12,7 +12,7 @@ namespace QuestionTests.ArrayQuestions
     public class IsOneArrayARotationOfAnotherTest
     {
         [Test]
-        public void IsRotation() 
+        public void Test() 
         {
             IsOneArrayARotationOfAnother isOneArrayARotationOfAnother = new IsOneArrayARotationOfAnother();
 

@@ -12,7 +12,7 @@ namespace QuestionTests.ArrayQuestions
     public class CommonElementsInTwoSortedArraysTest
     {
         [Test]
-        public void GetCommonArrays() 
+        public void Test() 
         {
             CommonElementsInTwoSortedArrays commonElementsInTwoSortedArrays = 
                 new CommonElementsInTwoSortedArrays();

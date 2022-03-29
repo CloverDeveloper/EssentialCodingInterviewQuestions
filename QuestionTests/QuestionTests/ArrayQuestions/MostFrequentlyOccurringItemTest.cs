@@ -12,7 +12,7 @@ namespace QuestionTests.ArrayQuestions
     public class MostFrequentlyOccurringItemTest
     {
         [Test]
-        public void GetFrequentlyOccurringItem()
+        public void Test()
         {
             MostFrequentlyOccurringItem mostFrequentlyOccurringItem = new MostFrequentlyOccurringItem();
 
