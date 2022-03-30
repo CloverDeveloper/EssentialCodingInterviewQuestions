@@ -17,6 +17,7 @@
     <ProjectReference Include="..\..\ArrayQuestions\ArrayQuestions\ArrayQuestions.csproj" />
     <ProjectReference Include="..\..\SortQuestions\SortQuestions\SortQuestions.csproj" />
     <ProjectReference Include="..\..\StringQuestions\StringQuestions\StringQuestions.csproj" />
+    <ProjectReference Include="..\..\TwoDimensionalArrayQuestions\TwoDimensionalArrayQuestions\TwoDimensionalArrayQuestions.csproj" />
   </ItemGroup>
 
 </Project>
